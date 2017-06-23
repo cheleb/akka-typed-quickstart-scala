@@ -1,0 +1,16 @@
+target/
+#ensime
+.ensime
+.ensime_cache/
+*~
+\.#*
+#eclipse
+.project
+.classpath
+.settings/
+/bin/
+#Idea
+.idea/
+#SBT
+.cache-main
+.cache-tests
